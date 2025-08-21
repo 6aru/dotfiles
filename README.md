@@ -13,7 +13,7 @@
 
 This animation gives a quick overview of my setup in action, highlighting the speed and efficiency of a tiling window manager.
 
-![My Dotfiles in action](https://i.imgur.com/your-main-showcase-gif.gif)
+![My Dotfiles in action](https://gifs.alphacoders.com/gifs/view/220766)
 
 ---
 
