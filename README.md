@@ -5,7 +5,7 @@
 
   A collection of my personal configuration files for Linux.
   Welcome to my digital workspace! This is where I keep my
-  **[Alacritty](https://github.com/alacritty/alacritty)**, **[Neovim](https://github.com/neovim/neovim)**, and **[Zsh](https://www.zsh.org/)** configs.
+  **[i3wm](https://i3wm.org/)**, **[Vim](https://www.vim.org/)**, and **[i3status](https://i3wm.org/i3status/)** configs.
 
   <p align="center">
     <a href="https://github.com/6aru/dotfiles/stargazers">
@@ -24,7 +24,7 @@
 
 ### 🌟 Showcase
 
-This animation gives a quick overview of my setup in action, showcasing my favorite tools and themes.
+This animation gives a quick overview of my setup in action, highlighting the speed and efficiency of a tiling window manager.
 
 ![My Dotfiles in action](https://i.imgur.com/your-main-showcase-gif.gif)
 
@@ -32,15 +32,15 @@ This animation gives a quick overview of my setup in action, showcasing my favor
 
 ### ⚙️ What's Inside?
 
-#### Terminal
-My terminal of choice is Alacritty, customized with the Catppuccin color scheme. My shell is Zsh, powered by Oh My Zsh and the Powerlevel10k theme for a clean, fast, and feature-rich experience.
+#### Window Manager & Status Bar
+My window manager of choice is the highly efficient **i3wm**. I've configured custom keybindings to make navigating my workspace effortless. The status bar is powered by **i3status**, customized to provide essential system information at a glance.
 
-![Alacritty and Zsh Demo](https://i.imgur.com/your-terminal-gif.gif)
+![i3wm and i3status Demo](https://i.imgur.com/your-i3wm-gif.gif)
 
 #### Editor
-I use Neovim as my primary text editor. My configuration is lightweight, focusing on a minimal and efficient development environment with a few key plugins for auto-completion and syntax highlighting.
+I use **Vim** as my primary text editor. My configuration is a lean setup focusing on core functionality, with a few plugins to enhance productivity without adding bloat. It's a testament to the power of modal editing.
 
-![Neovim Demo](https://i.imgur.com/your-neovim-gif.gif)
+![Vim Demo](https://i.imgur.com/your-vim-gif.gif)
 
 ---
 
@@ -48,7 +48,7 @@ I use Neovim as my primary text editor. My configuration is lightweight, focusin
 
 If you want to use these dotfiles, here's how you can get started.
 
-> **Note:** These configurations are tailored for a specific environment and may not work out-of-the-box on your system.
+> **Note:** These configurations are tailored for my specific environment and may not work out-of-the-box on your system.
 
 **1. Clone the repository:**
 
