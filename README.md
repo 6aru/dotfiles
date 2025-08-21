@@ -7,19 +7,6 @@
   Welcome to my digital workspace! This is where I keep my
   **[i3wm](https://i3wm.org/)**, **[Vim](https://www.vim.org/)**, and **[i3status](https://i3wm.org/i3status/)** configs.
 
-  <p align="center">
-    <a href="https://github.com/6aru/dotfiles/stargazers">
-      <img src="https://img.shields.io/github/stars/6aru/dotfiles?style=for-the-badge&color=252A34&labelColor=252A34" alt="Stars" />
-    </a>
-    <a href="https://github.com/6aru/dotfiles/forks">
-      <img src="https://img.shields.io/github/forks/6aru/dotfiles?style=for-the-badge&color=252A34&labelColor=252A34" alt="Forks" />
-    </a>
-    <a href="https://github.com/6aru/dotfiles/issues">
-      <img src="https://img.shields.io/github/issues/6aru/dotfiles?style=for-the-badge&color=252A34&labelColor=252A34" alt="Issues" />
-    </a>
-  </p>
-</div>
-
 ---
 
 ### 🌟 Showcase
