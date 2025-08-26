@@ -120,6 +120,8 @@ set background=dark " for the dark version
 
 " Optional: if your terminal supports true colors, this can improve the look
 set termguicolors
+
+" Airline Theme
 "let g:airline_theme='one'
 let g:airline_theme='iceberg'
 
