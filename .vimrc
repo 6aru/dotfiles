@@ -101,7 +101,7 @@ Plug 'junegunn/fzf.vim'
 " Call Vim-Plug's end function to finalize
 call plug#end()
 
-set guifont=FiraCode\ Nerd\ Font\ Mono\ Regular:h10
+#set guifont=FiraCode\ Nerd\ Font\ Mono\ Regular:h10
 
 let g:airline_powerline_fonts = 1
 
