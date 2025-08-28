@@ -4,8 +4,8 @@
   # 6aru's Dotfiles
 
   A collection of my personal configuration files for Linux.
-  Welcome to my digital workspace! This is where I keep my
-  **[i3wm](https://i3wm.org/)**, **[Vim](https://www.vim.org/)**, and **[i3status](https://i3wm.org/i3status/)** configs.
+  Welcome to my digital workspace! This is where I keep my .bashrc
+  **[i3wm](https://i3wm.org/)**, **[Vim](https://www.vim.org/)**, **[Ranger](https://ranger.github.io/)** and **[i3status](https://i3wm.org/i3status/)** configs.
 
 ---
 
