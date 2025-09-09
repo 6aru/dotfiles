@@ -115,8 +115,8 @@ let g:airline_powerline_fonts = 1
 " colorscheme one
 colorscheme iceberg
 
-set background=dark " for the dark version
-" set background=light " for the light version
+"set background=dark " for the dark version
+set background=light " for the light version
 
 " Optional: if your terminal supports true colors, this can improve the look
 set termguicolors
