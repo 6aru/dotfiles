@@ -215,3 +215,10 @@ mode "$mode_system" {
     bindsym Return mode "default"
     bindsym Escape mode "default"
 }
+
+exec_always --no-startup-id ~/.local/bin/autotiling
+
+for_window [class="^.*"] border pixel 0
+hide_edge_borders smart
+gaps inner 10
+smart_gaps on
