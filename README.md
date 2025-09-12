@@ -15,6 +15,7 @@
 My window manager of choice is the highly efficient **i3wm**. I've configured custom keybindings to make navigating my workspace effortless. The status bar is powered by **i3status**, customized to provide essential system information at a glance.
 
 ![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/Screenshot-20250912T203513.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/Screenshot-20250912T202630.jpg)
 ![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/Screenshot-20250912T204341.jpg)
 
 #### Editor
