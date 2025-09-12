@@ -14,7 +14,7 @@
 #### Window Manager & Status Bar
 My window manager of choice is the highly efficient **i3wm**. I've configured custom keybindings to make navigating my workspace effortless. The status bar is powered by **i3status**, customized to provide essential system information at a glance.
 
-![i3wm and i3status Demo](https://i.imgur.com/your-i3wm-gif.gif)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/Screenshot-20250912T204341.jpg)
 
 #### Editor
 I use **Vim** as my primary text editor. My configuration is a lean setup focusing on core functionality, with a few plugins to enhance productivity without adding bloat. It's a testament to the power of modal editing.
