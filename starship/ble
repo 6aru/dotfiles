@@ -1,5 +1,4 @@
 To install `ble.sh` on your Bookworm Pup (which is based on Debian Bookworm), you should use the recommended method of building it from source via Git. `ble.sh` is a shell script, not a binary, so this process is straightforward.
-https://gemini.google.com/share/e22e162a3e51
 ### Installation Steps
 
 1.  **Install Prerequisites**: First, you need to ensure you have `git`, `make`, and `gawk` installed. You can install these packages using Puppy Linux's package manager, or by running the following command in your terminal:
