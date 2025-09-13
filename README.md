@@ -15,10 +15,10 @@
 My window manager of choice is the highly efficient **i3wm**. I've configured custom keybindings to make navigating my workspace effortless. The status bar is powered by **i3status**, customized to provide essential system information at a glance.
 # **[Wallper](https://www.pixiv.net/en/artworks/120653546)** by **[Broken](https://x.com/Broken04630699)**
 
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/Screenshot-20250912T203513.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/Screenshot-20250912T204341.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/Screenshot-20250912T202630.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/Screenshot-20250912T204102.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250913T174828.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250913T174918.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250913T175456.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250913T175242.jpg)
 
 #### Editor
 I use **Vim** as my primary text editor. My configuration is a lean setup focusing on core functionality, with a few plugins to enhance productivity without adding bloat. It's a testament to the power of modal editing.
