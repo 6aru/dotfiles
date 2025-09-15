@@ -5,7 +5,7 @@
 
   A collection of my personal configuration files for Linux.
   Welcome to my digital workspace! This is where I keep my **[bash](https://www.gnu.org/software/bash/)**,
-  **[i3wm](https://i3wm.org/)**, **[Vim](https://www.vim.org/)**, **[Ranger](https://ranger.github.io/)** and **[i3status](https://i3wm.org/i3status/)** configs.
+  **[i3wm](https://i3wm.org/)**, **[Vim](https://www.vim.org/)**, **[Ranger](https://ranger.github.io/)**,**[Picom](https://github.com/yshui/picom)**, **[i3status](https://i3wm.org/i3status/)** configs.
 
 ---
 
