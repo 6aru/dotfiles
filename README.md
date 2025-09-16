@@ -24,7 +24,7 @@ My window manager of choice is the highly efficient **i3wm**. I've configured cu
 ![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250916T133949.webp)
 ![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250916T134036.webp)
 ![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250916T133724.webp)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250916T142244.webp)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250916T142323.webp)
 
 
 #### Editor
