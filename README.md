@@ -15,10 +15,13 @@
 My window manager of choice is the highly efficient **i3wm**. I've configured custom keybindings to make navigating my workspace effortless. The status bar is powered by **i3status**, customized to provide essential system information at a glance.
 # **[Wallper](https://www.pixiv.net/en/artworks/120653546)** by **[Broken](https://x.com/Broken04630699)**
 
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250913T174828.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250913T174918.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250913T175456.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250913T175242.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250916T134520.webp)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250916T134827.webp)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250916T134340.webp)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250916T133411.webp)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250916T133724.webp)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250916T133724.webp)
+
 
 #### Editor
 I use **Vim** as my primary text editor. My configuration is a lean setup focusing on core functionality, with a few plugins to enhance productivity without adding bloat. It's a testament to the power of modal editing.
