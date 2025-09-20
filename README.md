@@ -21,10 +21,10 @@ My window manager of choice is the highly efficient **i3wm**. I've configured cu
 ![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T144316.jpg)
 ![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T144340.jpg)
 ![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T142851.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250916T142141.webp)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250916T133724.webp)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250916T142323.webp)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shots!/Screenshot-20250916T134036.webp)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T143423.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T143510.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T143112.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T143219.jpg)
 
 
 #### Editor
