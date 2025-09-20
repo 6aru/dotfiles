@@ -58,12 +58,15 @@ bindsym $mod+Return exec lxterminal
 bindsym Ctrl+F4 kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec --no-startup-id dmenu_run -b
+#bindsym $mod+d exec --no-startup-id dmenu_run -b
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
 # There also is i3-dmenu-desktop which only displays applications shipping a
 # .desktop file. It is a wrapper around dmenu, so you need that installed.
 # bindcode $mod+40 exec --no-startup-id i3-dmenu-desktop
+
+#Synapse
+bindsym Ctrl+space exec --no-startup-id synapse
 
 # change focus
 bindsym $mod+j focus left
@@ -187,8 +190,8 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 # class                 border  backgr. text    indicator child_border
-client.focused          #4368e6 #4368e6 #ffffff #ffffff   #4368e6
-client.focused_inactive #ffffff #ffffff #cd678e #4368e6   #ffffff
+client.focused          #d2d3dc #4368e6 #ffffff #d2d3dc   #d2d3dc
+client.focused_inactive #515468 #ffffff #cd678e #515468   #515468
 client.unfocused        #333333 #222222 #888888 #292d2e   #222222
 client.urgent           #2f343a #900000 #ffffff #900000   #900000
 client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
@@ -200,15 +203,16 @@ bar {
 		i3bar_command i3bar --transparency
         tray_output none
         position top
+        padding 0 8px 0px 8px
         status_command i3status
         
         colors {
-			background #FFFFFF
+			background #2c2d3e
 			statusline #000000
 			separator #000000
-			focused_workspace #FFFFFF #FFFFFF #000000
-			active_workspace #FFFFFF #FFFFFF #000000
-			inactive_workspace #FFFFFF #FFFFFF #000000
+			focused_workspace #d2d3dc #515468 #d2d3dc
+			active_workspace #525468 #d2d3dc #515468
+			inactive_workspace #515468 #d2d3dc #515468
 			urgent_workspace #FFFFFF #FFFFFF #000000
 			binding_mode #FFFFFF #FFFFFF #000000
     }
@@ -231,8 +235,9 @@ mode "$mode_system" {
 
 exec_always --no-startup-id ~/.local/bin/autotiling
 
-#for_window [class="^.*"] border pixel 0
-hide_edge_borders smart
-gaps inner 10
-gaps outer 10
+for_window [class="^.*"] border pixel 5
+for_window [class="Synapse"] border pixel 0
+#hide_edge_borders smart
+gaps inner 7
+gaps outer 7
 smart_gaps inverse_outer
