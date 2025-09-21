@@ -1,0 +1,60 @@
+To install the Catppuccin theme for Ranger, you'll need to clone the repository and then configure Ranger to use it. Ranger themes are essentially Python scripts that define color schemes, so you'll place the theme file in the correct directory and then tell Ranger to use it.
+
+-----
+
+### Step 1: Set up Ranger's config directory
+
+First, ensure you have Ranger's configuration files in your home directory. If you haven't already, open a terminal and run the following command to copy the default config files:
+
+```bash
+ranger --copy-config=all
+```
+
+This creates a `~/.config/ranger` directory, which is where you'll be making changes.
+
+-----
+
+### Step 2: Install the Catppuccin theme
+
+Now, you'll clone the Catppuccin-Ranger repository into a sub-directory of your Ranger config folder.
+
+1.  Navigate to your Ranger configuration directory:
+    ```bash
+    cd ~/.config/ranger
+    ```
+2.  Clone the repository into a new directory named `catppuccin`:
+    ```bash
+    git clone https://github.com/dfrico/catppuccin-ranger.git catppuccin
+    ```
+
+-----
+
+### Step 3: Configure Ranger to use the theme
+
+Next, you need to edit Ranger's main configuration file to tell it to use the new theme.
+
+1.  Open Ranger's main config file, `rc.conf`, in your preferred text editor:
+
+    ```bash
+    vim ~/.config/ranger/rc.conf
+    ```
+
+    (or use `nano`, `gedit`, etc.)
+
+2.  Look for the line that says `set colorscheme` and change it to the following:
+
+    ```bash
+    set colorscheme catppuccin/catppuccin
+    ```
+
+    This command tells Ranger to load the `catppuccin.py` file from the `catppuccin` directory you just cloned.
+
+3.  Save and close the file.
+
+-----
+
+### Step 4: Restart Ranger
+
+Finally, restart Ranger for the changes to take effect. The next time you open Ranger, it should be sporting the new Catppuccin theme\! 🎉
+
+By the way, to unlock the full functionality of all Apps, enable [Gemini Apps Activity](https://myactivity.google.com/product/gemini).
