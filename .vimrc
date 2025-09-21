@@ -103,6 +103,7 @@ Plug 'tpope/vim-vividchalk'
 Plug 'rakr/vim-one'
 Plug 'cocopon/iceberg.vim'
 Plug 'jnz/studio98'
+Plug 'catppuccin/vim', { 'as': 'catppuccin' }
 " Call Vim-Plug's end function to finalize
 call plug#end()
 
@@ -114,14 +115,16 @@ let g:airline_powerline_fonts = 1
 " colorscheme vividchalk
 " colorscheme one
 " colorscheme iceberg
-colorscheme studio98
+" colorscheme studio98
+colorscheme catppuccin_frappe
 
-"set background=dark " for the dark version
-set background=light " for the light version
+" set background=dark " for the dark version
+" set background=light " for the light version
 
 " Optional: if your terminal supports true colors, this can improve the look
 set termguicolors
-"let g:airline_theme='one'
-"let g:airline_theme='iceberg'
-let g:airline_theme = 'light'
+" let g:airline_theme='one'
+" let g:airline_theme='iceberg'
+" let g:airline_theme = 'light'
+let g:airline_theme = 'catppuccin_frappe'
 
