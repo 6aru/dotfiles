@@ -13,19 +13,16 @@
 
 #### Window Manager & Status Bar
 My window manager of choice is the highly efficient **i3wm**. I've configured custom keybindings to make navigating my workspace effortless. The status bar is powered by **i3status**, customized to provide essential system information at a glance.
-# **[Wallper](https://www.pixiv.net/en/artworks/120653546)** by **[Broken](https://x.com/Broken04630699)**
+# **[Wallper](https://github.com/6aru/dotfiles/blob/main/assets/Wallpaper/pixel-earth.png)**
 
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T150419.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T150508.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T144109.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T144316.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T144340.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T142851.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T143423.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T143510.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T143112.jpg)
-![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/Shot2/Screenshot-20250920T143219.jpg)
-
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/i3-catpuccin%20frappe%20Shots/Screenshot-20250921T183730.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/i3-catpuccin%20frappe%20Shots/Screenshot-20250921T183750.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/i3-catpuccin%20frappe%20Shots/Screenshot-20250921T183814.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/i3-catpuccin%20frappe%20Shots/Screenshot-20250921T183951.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/i3-catpuccin%20frappe%20Shots/Screenshot-20250921T184457.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/i3-catpuccin%20frappe%20Shots/Screenshot-20250921T184603.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/i3-catpuccin%20frappe%20Shots/Screenshot-20250921T184116.jpg)
+![i3wm and i3status Demo](https://github.com/6aru/dotfiles/blob/main/assets/i3-catpuccin%20frappe%20Shots/Screenshot-20250921T184325.jpg)
 
 #### Editor
 I use **Vim** as my primary text editor. My configuration is a lean setup focusing on core functionality, with a few plugins to enhance productivity without adding bloat. It's a testament to the power of modal editing.
