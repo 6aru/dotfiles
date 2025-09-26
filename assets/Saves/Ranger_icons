@@ -1,0 +1,55 @@
+git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
+
+default_linemode devicons
+
+
+
+To enable icons (often called "devicons" or "glyphs") in the Ranger file manager, you generally need to follow two main steps: **installing a Nerd Font** and then **installing and enabling the `ranger_devicons` plugin**.
+
+Here is a step-by-step guide:
+
+-----
+
+## 1\. Install a Nerd Font
+
+Ranger icons are displayed using special characters (glyphs) from **Nerd Fonts**. Your terminal emulator must be configured to use a Nerd Font for the icons to render correctly instead of seeing squares or question marks.
+
+1.  **Choose and Install a Nerd Font:**
+
+      * Visit the **Nerd Fonts** repository on GitHub.
+      * Choose a font (e.g., *Hack Nerd Font*, *Fira Code Nerd Font*, *Source Code Pro Nerd Font*) and download it.
+      * Install the font on your system. On Linux, this typically involves copying the font files (usually `.ttf` or `.otf`) to `~/.local/share/fonts/` or `/usr/share/fonts/` and then running `fc-cache -fv`.
+
+2.  **Configure Your Terminal:**
+
+      * Change the font setting in your terminal emulator's preferences (e.g., Konsole, Gnome Terminal, Alacritty, iTerm2) to the **Nerd Font** you just installed. Ensure the font name explicitly includes "Nerd Font" or "NF".
+
+-----
+
+## 2\. Install and Enable the `ranger_devicons` Plugin
+
+The `ranger_devicons` plugin is what provides the logic for which icon to display for each file type.
+
+1.  **Clone the Plugin:**
+    Clone the plugin repository into your Ranger plugins directory:
+
+    ```bash
+    git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
+    ```
+
+2.  **Enable the Linemode:**
+    You need to tell Ranger to use the new "devicons" line mode by adding a line to your `rc.conf` file.
+
+      * Open your Ranger configuration file (usually `~/.config/ranger/rc.conf`) in an editor. If it doesn't exist, you might need to run `ranger --copy-config` first to create the default config files.
+      * Add or change the `default_linemode` setting to:
+
+    <!-- end list -->
+
+    ```conf
+    default_linemode devicons
+    ```
+
+3.  **Restart Ranger:**
+    Restart the Ranger file manager. The icons should now be visible next to your files and directories.
+
+If you encounter issues, ensure your terminal is correctly using the Nerd Font, as this is the most common point of failure. You can often test the font rendering by opening the `devicons.py` file inside the plugin directory in your terminal to see if the glyphs render there.
