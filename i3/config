@@ -58,7 +58,7 @@ bindsym $mod+Return exec lxterminal
 bindsym Ctrl+F4 kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec --no-startup-id dmenu_run -b -i -nb '#303446' -nf '#c6d0f5' -sb '#292c3c' -sf '#f2d5cf'
+bindsym $mod+d exec --no-startup-id "dmenu_run -b -i -nf '#F8F8F2' -nb '#282A36' -sb '#6272A4' -sf '#F8F8F2' -fn 'FiraCode Nerd Font Mono Regular 5' -p 'dmenu%'"
 
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
@@ -190,13 +190,14 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-# class                 border  backgr. text    indicator child_border
-client.focused          #babbf1 #303446 #c6d0f5 #babbf1   #babbf1
-client.focused_inactive #737994 #303446 #c6d0f5 #737994   #737994
-client.unfocused        #737994 #303446 #c6d0f5 #737994   #737994
-client.urgent           #ef9f76 #303446 #ef9f76 #737994   #ef9f76
-client.placeholder      #737994 #303446 #c6d0f5 #737994   #737994
-client.background       #303446
+# class                 border  bground text    indicator child_border
+client.focused          #6272A4 #6272A4 #F8F8F2 #6272A4   #6272A4
+client.focused_inactive #44475A #44475A #F8F8F2 #44475A   #44475A
+client.unfocused        #282A36 #282A36 #BFBFBF #282A36   #282A36
+client.urgent           #44475A #FF5555 #F8F8F2 #FF5555   #FF5555
+client.placeholder      #282A36 #282A36 #F8F8F2 #282A36   #282A36
+
+client.background       #F8F8F2
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
@@ -208,15 +209,15 @@ bar {
         status_command i3status
         
         colors {
-			background #303446
-			statusline #c6d0f5
-			separator #303446
-            # target           border  bg      text
-			focused_workspace  #303446 #ca9ee6 #232634
-			active_workspace   #303446 #626880 #c6d0f5
-			inactive_workspace #303446 #303446 #c6d0f5
-			urgent_workspace   #303446 #e78284 #232634
-			binding_mode       #303446 #e78284 #232634
+			background #282A36
+            statusline #F8F8F2
+            separator  #44475A
+
+            focused_workspace  #44475A #44475A #F8F8F2
+            active_workspace   #282A36 #44475A #F8F8F2
+            inactive_workspace #282A36 #282A36 #BFBFBF
+            urgent_workspace   #FF5555 #FF5555 #F8F8F2
+            binding_mode       #FF5555 #FF5555 #F8F8F2
     }
 	
 }
