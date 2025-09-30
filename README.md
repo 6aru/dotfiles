@@ -35,4 +35,4 @@ A clean, consistent, and dark configuration for my Linux environment, centered a
 | :--- | :--- | :--- |
 | **Wallpaper** | Dracula Debian | [Image Link](https://github.com/dracula/wallpaper/blob/master/first-collection/debian.png) |
 | **Font & Icons** | **FiraCode Nerd Font** | [Download Link](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraCode.zip) |
-| **Neofetch** | [Theme](https://github.com/Chick2D/neofetch-themes?tab=readme-ov-file) |
+| **Neofetch** | **BMOfetch** | [Theme](https://github.com/Chick2D/neofetch-themes?tab=readme-ov-file) |
