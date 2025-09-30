@@ -38,6 +38,19 @@ A clean, consistent, and dark configuration for my Linux environment, centered a
 | **Neofetch** | **BMOfetch** | [Theme](https://github.com/Chick2D/neofetch-themes?tab=readme-ov-file) |
 
 ---
+## 💻 System Core
+
+My environment is intentionally light and portable, reflecting the spirit of the chosen distribution.
+
+| Category | Detail | Notes |
+| :--- | :--- | :--- |
+| **Distribution** | **Puppy Linux Bookworm Pup64** | A powerful, lightweight Pup based on Debian 12. |
+| **Base System** | Debian 12 (Bookworm) | Ensures broad package compatibility via APT/Synaptic. |
+| **Operating Mode** | **Live USB / Frugal Install** | Runs fully in RAM for speed and security. |
+| **Storage Medium** | **32GB USB 3.0 Pendrive** | The ultimate portable workspace. |
+
+---
+
 ## 🚀 Getting Started
 
 If you want to use or adapt these configurations (dotfiles), here's how you can get started.
