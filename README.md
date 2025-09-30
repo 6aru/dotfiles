@@ -3,9 +3,9 @@
 A clean, consistent, and dark configuration for my Linux environment, centered around the [Dracula Theme](https://draculatheme.com/).
 
 ---
-## ✨ Screenshots & Showcase
+## Screenshots
 
-See the full setup in action! All components—from the WM to the terminal—are integrated with the Dracula theme.
+All components—from the WM to the terminal—are integrated with the Dracula theme.
 
 <p align="center">
   <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111537.png" width="30%" alt="i3 Tiled Layout">
