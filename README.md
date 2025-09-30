@@ -21,9 +21,9 @@
   [Lxterminal](https://github.com/lxde/lxterminal) "[Colorscheme](https://github.com/dracula/lxterminal)"
 - **Shell** \
   [Starship](https://starship.rs/) "[Theme](https://starship.rs/presets/jetpack)"
-- **Activity Monitor** \
-[gotop](https://github.com/cjbassi/gotop)
-- **Music** \
-[mpd](https://github.com/MusicPlayerDaemon/MPD) & [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)
+- **FileManager** \
+  [Ranger](https://github.com/ranger/ranger) "[Colorscheme](https://draculatheme.com/ranger)"
+- **App Launcher** \
+  [dmenu](https://github.com/stilvoid/dmenu) & [Colorscheme](https://github.com/dracula/dmenu)
 - **Now Playing in Polybar** (Very cool) \
 [polybar-now-playing](https://github.com/d093w1z/polybar-now-playing)
