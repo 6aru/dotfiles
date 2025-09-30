@@ -16,7 +16,7 @@
    [Dracula Debian](https://github.com/dracula/wallpaper/blob/master/first-collection/debian.png)
 -   **Compositor** \
    [picom](https://github.com/yshui/picom)
--  **Font** \
+-  **Font & Icon Pack** \
    [FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraCode.zip) 
 - **Terminal** \
   [Lxterminal](https://github.com/lxde/lxterminal) "[Colorscheme](https://github.com/dracula/lxterminal)"
