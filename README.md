@@ -1,3 +1,8 @@
+# My Dracula-Themed Dotfiles 🧛
+
+A clean, consistent, and dark configuration for my Linux environment, centered around the [Dracula Theme](https://draculatheme.com/).
+
+---
 ![screenshot](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111537.png)
 ![screenshot](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111558.png)
 ![screenshot](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T112432.png)
@@ -5,10 +10,6 @@
 ![screenshot](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111802.png)
 ![screenshot](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111959.png)
 ![screenshot](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T112148.png)
-
-# My Dracula-Themed Dotfiles 🧛
-
-A clean, consistent, and dark configuration for my Linux environment, centered around the [Dracula Theme](https://draculatheme.com/).
 
 ---
 
