@@ -9,7 +9,7 @@
 ### What for what
 
 - **WM** \
- [i3](https://github.com/i3/i3) "[Colorscheme](https://github.com/dracula/i3)"
+ [i3](https://github.com/i3/i3) ([Colorscheme](https://github.com/dracula/i3))
  - **Status Bar** \
   [i3Status](https://github.com/i3/i3status) "[Colorscheme](https://github.com/dracula/i3/tree/master/.config/i3status)"
  - **Wallpaper** \
