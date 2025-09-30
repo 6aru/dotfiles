@@ -49,4 +49,4 @@ If you want to use or adapt these configurations (dotfiles), here's how you can 
 To download the files, open your terminal and run the following command:
 
 ```bash
-git clone [https://github.com/6aru/dotfiles.git](https://github.com/6aru/dotfiles.git)
+git clone [https://github.com/6aru/i3wm-Dracula.git](https://github.com/6aru/i3wm-Dracula.git)
