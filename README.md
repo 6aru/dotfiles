@@ -1,4 +1,4 @@
-# My Dracula-Themed Dotfiles 🧛
+# My Dracula-Themed Dotfiles 
 
 A clean, consistent, and dark configuration for my Linux environment, centered around the [Dracula Theme](https://draculatheme.com/).
 
