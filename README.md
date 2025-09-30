@@ -3,26 +3,27 @@
 A clean, consistent, and dark configuration for my Linux environment, centered around the [Dracula Theme](https://draculatheme.com/).
 
 ---
+## ✨ Screenshots & Showcase
 
----
-## 🖼️ Primary Showcase
-
-The primary desktop view, highlighting the minimal composition and consistent coloring.
+See the full setup in action! All components—from the WM to the terminal—are integrated with the Dracula theme.
 
 <p align="center">
-    <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T112148.png" width="70%" alt="Main Desktop View">
-</p>
-
-### Key Applications
-
-<p align="center">
-    <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111558.png" width="45%" alt="Ranger File Manager" style="margin-right: -20px; border: 2px solid #555;">
-    <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111802.png" width="45%" alt="Terminal" style="border: 2px solid #555;">
+  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111537.png" width="30%" alt="i3 Tiled Layout">
+  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111558.png" width="30%" alt="Ranger File Manager">
+  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T112432.png" width="30%" alt="Vim Editor">
+  
+  <br>
+  
+  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111639.png" width="30%" alt="dmenu App Launcher">
+  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111802.png" width="30%" alt="Terminal with Starship">
+  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111959.png" width="30%" alt="i3 Status Bar">
+  
+  <br>
+  
+  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T112148.png" width="60%" alt="Clean Desktop">
 </p>
 
 ***
-
----
 
 ## Configuration Details
 
