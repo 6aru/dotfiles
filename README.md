@@ -24,6 +24,8 @@
 - **FileManager** \
   [Ranger](https://github.com/ranger/ranger) "[Colorscheme](https://draculatheme.com/ranger)"
 - **App Launcher** \
-  [dmenu](https://github.com/stilvoid/dmenu) & [Colorscheme](https://github.com/dracula/dmenu)
-- **Now Playing in Polybar** (Very cool) \
-[polybar-now-playing](https://github.com/d093w1z/polybar-now-playing)
+  [dmenu](https://github.com/stilvoid/dmenu) "[Colorscheme](https://github.com/dracula/dmenu)"
+- **Editor** \
+  [Vim](https://github.com/vim/vim) "[Colorscheme](https://draculatheme.com/vim)"
+- **GTK** \
+  [Dracula](https://draculatheme.com/gtk)
