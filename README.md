@@ -3,25 +3,37 @@
 A clean, consistent, and dark configuration for my Linux environment, centered around the [Dracula Theme](https://draculatheme.com/).
 
 ---
-## ✨ Screenshots & Showcase
 
-See the full setup in action! All components—from the WM to the terminal—are integrated with the Dracula theme.
+---
+## 📸 Component Spotlight
 
-<p align="center">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111537.png" width="30%" alt="i3 Tiled Layout">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111558.png" width="30%" alt="Ranger File Manager">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T112432.png" width="30%" alt="Vim Editor">
-  
-  <br>
-  
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111639.png" width="30%" alt="dmenu App Launcher">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111802.png" width="30%" alt="Terminal with Starship">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111959.png" width="30%" alt="i3 Status Bar">
-  
-  <br>
-  
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T112148.png" width="60%" alt="Clean Desktop">
-</p>
+Here is a closer look at the configuration for key applications:
+
+### **Window Manager & Status**
+
+A full-screen view of the i3 window manager with the custom status bar configuration.
+
+![i3 Tiled Layout](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111537.png)
+
+### **File Management (Ranger)**
+
+The terminal file manager showing the full Dracula colorscheme integration.
+
+![Ranger File Manager](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111558.png)
+
+### **Vim Editor**
+
+My development setup using Vim, complete with line numbers and syntax highlighting.
+
+![Vim Editor](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T112432.png)
+
+### **Terminal & Shell**
+
+Lxterminal running the Starship prompt, showcasing the FiraCode Nerd Font.
+
+| Shell Prompt | Application Launcher |
+| :--- | :--- |
+| ![Terminal with Starship](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111802.png) | ![dmenu App Launcher](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111639.png) |
 
 ***
 
