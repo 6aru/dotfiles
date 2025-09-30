@@ -5,35 +5,20 @@ A clean, consistent, and dark configuration for my Linux environment, centered a
 ---
 
 ---
-## 📸 Component Spotlight
+## 🖼️ Primary Showcase
 
-Here is a closer look at the configuration for key applications:
+The primary desktop view, highlighting the minimal composition and consistent coloring.
 
-### **Window Manager & Status**
+<p align="center">
+    <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T112148.png" width="70%" alt="Main Desktop View">
+</p>
 
-A full-screen view of the i3 window manager with the custom status bar configuration.
+### Key Applications
 
-![i3 Tiled Layout](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111537.png)
-
-### **File Management (Ranger)**
-
-The terminal file manager showing the full Dracula colorscheme integration.
-
-![Ranger File Manager](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111558.png)
-
-### **Vim Editor**
-
-My development setup using Vim, complete with line numbers and syntax highlighting.
-
-![Vim Editor](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T112432.png)
-
-### **Terminal & Shell**
-
-Lxterminal running the Starship prompt, showcasing the FiraCode Nerd Font.
-
-| Shell Prompt | Application Launcher |
-| :--- | :--- |
-| ![Terminal with Starship](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111802.png) | ![dmenu App Launcher](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111639.png) |
+<p align="center">
+    <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111558.png" width="45%" alt="Ranger File Manager" style="margin-right: -20px; border: 2px solid #555;">
+    <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111802.png" width="45%" alt="Terminal" style="border: 2px solid #555;">
+</p>
 
 ***
 
