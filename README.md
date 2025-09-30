@@ -50,6 +50,7 @@ All components—from the WM to the terminal—are integrated with the Dracula t
 | **Neofetch** | **BMOfetch** | [Theme](https://github.com/Chick2D/neofetch-themes?tab=readme-ov-file) |
 
 ---
+
 ## 💻 System Core
 
 My environment is intentionally light and portable, reflecting the spirit of the chosen distribution.
@@ -62,6 +63,7 @@ My environment is intentionally light and portable, reflecting the spirit of the
 | **Storage Medium** | **32GB USB 3.0 Pendrive** | The ultimate portable workspace. |
 
 ---
+
 
 ## 🚀 Getting Started
 
