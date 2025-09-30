@@ -6,27 +6,31 @@
 ![screenshot](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111959.png)
 ![screenshot](https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T112148.png)
 
-### What for what
+# My Dracula-Themed Dotfiles 🧛
 
-- **WM** \
- [i3](https://github.com/i3/i3) "[Colorscheme](https://github.com/dracula/i3)"
- - **Status Bar** \
-  [i3Status](https://github.com/i3/i3status) "[Colorscheme](https://github.com/dracula/i3/tree/master/.config/i3status)"
- - **Wallpaper** \
-   [Dracula Debian](https://github.com/dracula/wallpaper/blob/master/first-collection/debian.png)
--   **Compositor** \
-   [picom](https://github.com/yshui/picom)
--  **Font & Icon Pack** \
-   [FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraCode.zip) 
-- **Terminal** \
-  [Lxterminal](https://github.com/lxde/lxterminal) "[Colorscheme](https://github.com/dracula/lxterminal)"
-- **Shell** \
-  [Starship](https://starship.rs/) "[Theme](https://starship.rs/presets/jetpack)"
-- **FileManager** \
-  [Ranger](https://github.com/ranger/ranger) "[Colorscheme](https://draculatheme.com/ranger)"
-- **App Launcher** \
-  [dmenu](https://github.com/stilvoid/dmenu) "[Colorscheme](https://github.com/dracula/dmenu)"
-- **Editor** \
-  [Vim](https://github.com/vim/vim) "[Colorscheme](https://draculatheme.com/vim)"
-- **GTK** \
-  [Dracula](https://draculatheme.com/gtk)
+A clean, consistent, and dark configuration for my Linux environment, centered around the [Dracula Theme](https://draculatheme.com/).
+
+---
+
+## Configuration Details
+
+| Component | Software/Configuration | Links |
+| :--- | :--- | :--- |
+| **Window Manager (WM)** | **i3** | [Repository](https://github.com/i3/i3), [Dracula Colorscheme](https://github.com/dracula/i3) |
+| **Status Bar** | **i3Status** | [Repository](https://github.com/i3/i3status), [Dracula Config](https://github.com/dracula/i3/tree/master/.config/i3status) |
+| **Compositor** | **picom** | [Repository](https://github.com/yshui/picom) |
+| **Terminal Emulator** | **Lxterminal** | [Repository](https://github.com/lxde/lxterminal), [Dracula Colorscheme](https://github.com/dracula/lxterminal) |
+| **Shell Prompt** | **Starship** | [Homepage](https://starship.rs/), [Jetpack Theme](https://starship.rs/presets/jetpack) |
+| **File Manager** | **Ranger** | [Repository](https://github.com/ranger/ranger), [Dracula Colorscheme](https://draculatheme.com/ranger) |
+| **Application Launcher** | **dmenu** | [Repository](https://github.com/stilvoid/dmenu), [Dracula Colorscheme](https://github.com/dracula/dmenu) |
+| **Text Editor** | **Vim** | [Repository](https://github.com/vim/vim), [Dracula Colorscheme](https://draculatheme.com/vim) |
+| **GTK Theme** | **Dracula** | [Theme Page](https://draculatheme.com/gtk) |
+
+---
+
+## Visuals and Assets
+
+| Asset | Details | Link |
+| :--- | :--- | :--- |
+| **Wallpaper** | Dracula Debian | [Image Link](https://github.com/dracula/wallpaper/blob/master/first-collection/debian.png) |
+| **Font & Icons** | **FiraCode Nerd Font** | [Download Link](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraCode.zip) |
