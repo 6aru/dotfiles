@@ -36,3 +36,17 @@ A clean, consistent, and dark configuration for my Linux environment, centered a
 | **Wallpaper** | Dracula Debian | [Image Link](https://github.com/dracula/wallpaper/blob/master/first-collection/debian.png) |
 | **Font & Icons** | **FiraCode Nerd Font** | [Download Link](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraCode.zip) |
 | **Neofetch** | **BMOfetch** | [Theme](https://github.com/Chick2D/neofetch-themes?tab=readme-ov-file) |
+
+---
+## 🚀 Getting Started
+
+If you want to use or adapt these configurations (dotfiles), here's how you can get started.
+
+> **Note:** These configurations are **highly tailored** to my specific environment and installed packages. They may require significant modification to work correctly on your system.
+
+### 1. Clone the Repository
+
+To download the files, open your terminal and run the following command:
+
+```bash
+git clone [https://github.com/6aru/dotfiles.git](https://github.com/6aru/dotfiles.git)
