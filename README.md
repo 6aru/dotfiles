@@ -24,7 +24,6 @@ All components—from the WM to the terminal—are integrated with the Dracula t
 </p>
 
 ***
----
 ## Screenshots of my Catppuccin-frappe
 
 <p align="center">
