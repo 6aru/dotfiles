@@ -58,7 +58,7 @@ bindsym $mod+Return exec lxterminal
 bindsym Ctrl+F4 kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec --no-startup-id dmenu_run -b -i -nb '#303446' -nf '#c6d0f5' -sb '#292c3c' -sf '#f2d5cf'
+bindsym $mod+d exec --no-startup-id "dmenu_run -b -i -nb '#303446' -nf '#c6d0f5' -sb '#df9bb8' -sf '#232634' -fn 'FiraCode Nerd Font Mono Regular 10' -p 'Search:'"
 
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
@@ -191,7 +191,7 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 # class                 border  backgr. text    indicator child_border
-client.focused          #babbf1 #303446 #c6d0f5 #babbf1   #babbf1
+client.focused          #df9bb8 #303446 #c6d0f5 #df9bb8   #df9bb8
 client.focused_inactive #737994 #303446 #c6d0f5 #737994   #737994
 client.unfocused        #737994 #303446 #c6d0f5 #737994   #737994
 client.urgent           #ef9f76 #303446 #ef9f76 #737994   #ef9f76
@@ -204,7 +204,7 @@ bar {
 		i3bar_command i3bar --transparency
         tray_output none
         position top
-        padding 0 8px 0px 8px
+        padding 0 8px 0px 4px
         status_command i3status
         
         colors {
@@ -212,7 +212,7 @@ bar {
 			statusline #c6d0f5
 			separator #303446
             # target           border  bg      text
-			focused_workspace  #303446 #ca9ee6 #232634
+			focused_workspace  #454b59 #df9bb8 #232634
 			active_workspace   #303446 #626880 #c6d0f5
 			inactive_workspace #303446 #303446 #c6d0f5
 			urgent_workspace   #303446 #e78284 #232634
@@ -240,6 +240,8 @@ exec_always --no-startup-id ~/.local/bin/autotiling
 for_window [class="^.*"] border pixel 5
 for_window [class="Synapse"] border pixel 0
 #hide_edge_borders smart
-gaps inner 7
-gaps outer 7
+gaps inner 5
+gaps outer 5
+workspace 3 gaps inner 0
+workspace 3 gaps outer 0
 smart_gaps inverse_outer
