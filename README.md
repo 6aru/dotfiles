@@ -24,18 +24,18 @@ All components—from the WM to the terminal—are integrated with the Dracula t
 </p>
 
 ***
-## Screenshots of my Catppuccin-frappe
+## My Catppuccin-frappe Screenshots
 
 <p align="center">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251005T181649.png" width="30%" alt="i3 Tiled Layout">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251005T181706.png" width="30%" alt="Ranger File Manager">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251005T182237.png" width="30%" alt="Vim Editor">
+  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251006T104849.png" width="30%" alt="i3 Tiled Layout">
+  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251006T104908.png" width="30%" alt="dmenu">
+  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251006T104649.png" width="30%" alt="lxterminal">
   
   <br>
   
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251005T182321.png" width="30%" alt="dmenu App Launcher">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251005T182359.png" width="30%" alt="Terminal with Starship">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251005T182541.png" width="30%" alt="i3 Status Bar">
+  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251006T104531.png" width="30%" alt="vim">
+  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251006T104729.png" width="30%" alt="Terminal with Ranger file Manager">
+  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251006T104817.png" width="30%" alt="Firefox">
 
 ***
 
