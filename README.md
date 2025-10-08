@@ -24,7 +24,7 @@ All components—from the WM to the terminal—are integrated with the Dracula t
 </p>
 
 ***
-## My Catppuccin-frappe Screenshots
+## [My Catppuccin-frappe Screenshots](https://github.com/6aru/i3wm-Dracula/tree/main/i3-Catppuccin)
 
 <p align="center">
   <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251006T104849.png" width="30%" alt="i3 Tiled Layout">
