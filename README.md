@@ -1,3 +1,13 @@
+<div align="center">
+    <img 
+        src="https://c.tenor.com/eH2gQWv208AAAAAC/ellen-joe-zenless-zone-zero-zzz-shark-girl-vibing.gif" 
+        alt="Ellen Joe Vibing GIF" 
+        width="150" 
+        height="150"
+        style="border-radius: 50%; display: block; margin-left: auto; margin-right: auto;"
+    >
+</div>
+
 # My Portable i3 Dotfiles 
 
 A Clean, Minimal Dark Theme Configuration
