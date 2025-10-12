@@ -1,6 +1,7 @@
-# My Dracula-Themed Dotfiles 
+# My Portable i3 Dotfiles 
 
-A clean, consistent, and dark configuration for my Linux environment, centered around the [Dracula Theme](https://draculatheme.com/).
+A Clean, Minimal Dark Theme Configuration
+Inspired by and centered around the Ellen Joe aesthetic.
 
 ---
 
@@ -55,6 +56,7 @@ A clean, consistent, and dark configuration for my Linux environment, centered a
 </a>
 </div>
 
+---
 
 ## Configuration Details
 
