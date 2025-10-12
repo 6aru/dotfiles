@@ -205,7 +205,8 @@ bar {
         tray_output none
         position top
         padding 0 8px 0px 4px
-        status_command i3status
+        font pango:FiraCode Nerd Font 10
+		status_command i3status
         
         colors {
 			background #303446
