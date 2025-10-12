@@ -22,11 +22,11 @@ A clean, consistent, and dark configuration for my Linux environment, centered a
     <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120458.png" width="48%" alt="i3 Status Bar" title="Lxterminal, Starship, neofetch, ble.sh">
 </a>
 
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120458.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120458.png" width="48%" alt="dmenu App Launcher" title="dmenu App Launcher">
-</a>
 <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120531.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120531.png" width="48%" alt="Terminal with Starship" title="Terminal with Starship">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120531.png" width="48%" alt="dmenu App Launcher" title="Vim">
+</a>
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115759.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115759.png" width="48%" alt="Terminal with Starship" title="SuperFile(spf)">
 </a>
 
 <br>
