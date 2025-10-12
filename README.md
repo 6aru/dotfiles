@@ -12,9 +12,6 @@ A clean, consistent, and dark configuration for my Linux environment, centered a
 <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120331.png" target="_blank">
     <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120331.png" width="48%" alt="Vim Editor" title="Vim Editor">
 </a>
-
-<br>
-
 <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120806.png" target="_blank">
     <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120806.png" width="48%" alt="Terminal with Ranger" title="Terminal with Ranger">
 </a>
