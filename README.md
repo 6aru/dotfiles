@@ -73,7 +73,7 @@ All components—from the WM to the terminal—are integrated with the Catppucci
 | **File Manager** | **Superfile** | [Repository](https://github.com/yorukot/superfile) |
 | **Application Launcher** | **dmenu** | [Repository](https://github.com/stilvoid/dmenu), [Catppuccin Colorscheme](https://github.com/catppuccin/dmenu) |
 | **Text Editor** | **Vim** | [Repository](https://github.com/vim/vim), [Catppuccin Colorscheme](https://github.com/catppuccin/vim) |
-| **GTK Theme** | **Dracula + Catppucci** | [Theme Page](https://draculatheme.com/gtk),[Theme Page](https://github.com/brycewalkerdev/catppuccin-gtk). |
+| **GTK Theme** | **Dracula + Catppuccin** | [Theme Page](https://draculatheme.com/gtk), [Theme Page](https://github.com/brycewalkerdev/catppuccin-gtk). |
 
 ---
 
