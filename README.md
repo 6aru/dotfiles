@@ -71,9 +71,9 @@ All components—from the WM to the terminal—are integrated with the Catppucci
 | **Terminal Emulator** | **Lxterminal** | [Repository](https://github.com/lxde/lxterminal), [ CatppuccinColorscheme](https://github.com/catppuccin/lxterminal) |
 | **Shell Prompt** | **Starship** | [Homepage](https://starship.rs/), [Jetpack Theme](https://starship.rs/presets/jetpack) |
 | **File Manager** | **Superfile** | [Repository](https://github.com/yorukot/superfile) |
-| **Application Launcher** | **dmenu** | [Repository](https://github.com/stilvoid/dmenu), [Dracula Colorscheme](https://github.com/dracula/dmenu) |
-| **Text Editor** | **Vim** | [Repository](https://github.com/vim/vim), [Dracula Colorscheme](https://draculatheme.com/vim) |
-| **GTK Theme** | **Dracula** | [Theme Page](https://draculatheme.com/gtk) |
+| **Application Launcher** | **dmenu** | [Repository](https://github.com/stilvoid/dmenu), [Catppuccin Colorscheme](https://github.com/catppuccin/dmenu) |
+| **Text Editor** | **Vim** | [Repository](https://github.com/vim/vim), [Catppuccin Colorscheme](https://github.com/catppuccin/vim) |
+| **GTK Theme** | **Dracula + Catppucci** | [Theme Page](https://draculatheme.com/gtk),[Theme Page](https://github.com/brycewalkerdev/catppuccin-gtk). |
 
 ---
 
