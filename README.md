@@ -9,7 +9,7 @@ All components—from the WM to the terminal—are integrated with the Dracula t
 
 <p align="center">
   <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T172149.png" width="30%" alt="i3 Tiled Layout">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111558.png" width="30%" alt="Ranger File Manager">
+  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120305.png" width="30%" alt="Ranger File Manager">
   <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120331.png" width="30%" alt="Vim Editor">
   
   <br>
