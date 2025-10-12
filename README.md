@@ -23,15 +23,15 @@ All components—from the WM to the terminal—are integrated with the Dracula t
 </p>
 
 <p align="center">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251006T104849.png" width="30%" alt="i3 Tiled Layout">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251006T104908.png" width="30%" alt="dmenu">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251006T104649.png" width="30%" alt="lxterminal">
+  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115834.png" width="30%" alt="i3 Tiled Layout">
+  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115955.png" width="30%" alt="dmenu">
+  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120105.png" width="30%" alt="lxterminal">
   
   <br>
   
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251006T104531.png" width="30%" alt="vim">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251006T104729.png" width="30%" alt="Terminal with Ranger file Manager">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/i3-Catppuccin/Screenshots/Screenshot-20251006T104817.png" width="30%" alt="Firefox">
+  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120710.png" width="30%" alt="vim">
+  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120806.png" width="30%" alt="Terminal with Ranger file Manager">
+  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120206.png" width="30%" alt="Firefox">
 
 ## Configuration Details
 
