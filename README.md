@@ -3,35 +3,35 @@
 A clean, consistent, and dark configuration for my Linux environment, centered around the [Dracula Theme](https://draculatheme.com/).
 
 ---
-## Screenshots
 
-All components—from the WM to the terminal—are integrated with the Dracula theme.
+<div align="center">
+    
+# Screenshots
 
-<p align="center">
-  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T172149.png" width="30%" alt="i3 Tiled Layout">
-  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120305.png" width="30%" alt="Ranger File Manager">
-  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120331.png" width="30%" alt="Vim Editor">
-  
-  <br>
-  
-  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120458.png" width="30%" alt="dmenu App Launcher">
-  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120531.png" width="30%" alt="Terminal with Starship">
-  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115759.png" width="30%" alt="i3 Status Bar">
-  
-  <br>
-  
-</p>
+---
 
-<p align="center">
-  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115834.png" width="30%" alt="i3 Tiled Layout">
-  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115955.png" width="30%" alt="dmenu">
-  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120105.png" width="30%" alt="lxterminal">
-  
-  <br>
-  
-  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120710.png" width="30%" alt="vim">
-  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120806.png" width="30%" alt="Terminal with Ranger file Manager">
-  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120206.png" width="30%" alt="Firefox">
+### Core Desktop Experience
+
+| i3 Tiled Layout | Terminal with Ranger | Vim Editor |
+| :---: | :---: | :---: |
+| <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T172149.png" width="95%" alt="i3 Tiled Layout"> | <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120806.png" width="95%" alt="Terminal with Ranger file Manager"> | <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120331.png" width="95%" alt="Vim Editor"> |
+
+| Another Tiled View | `lxterminal` | Firefox Browser |
+| :---: | :---: | :---: |
+| <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115834.png" width="95%" alt="i3 Tiled Layout"> | <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120105.png" width="95%" alt="lxterminal"> | <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120206.png" width="95%" alt="Firefox"> |
+
+---
+
+### Utilities and Tools
+
+| Application Launcher (`dmenu`) | Terminal with Starship | i3 Status Bar |
+| :---: | :---: | :---: |
+| <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120458.png" width="95%" alt="dmenu App Launcher"> | <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120531.png" width="95%" alt="Terminal with Starship"> | <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115759.png" width="95%" alt="i3 Status Bar"> |
+
+| Ranger File Manager | Another Vim Screenshot | Another dmenu Screenshot |
+| :---: | :---: | :---: |
+| <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120305.png" width="95%" alt="Ranger File Manager"> | <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120710.png" width="95%" alt="vim"> | <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115955.png" width="95%" alt="dmenu"> |
+</div>
 
 ## Configuration Details
 
