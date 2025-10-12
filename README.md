@@ -18,8 +18,8 @@ A clean, consistent, and dark configuration for my Linux environment, centered a
 <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120331.png" target="_blank">
     <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120331.png" width="48%" alt="Terminal with Ranger" title="dmenu">
 </a>
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115759.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115759.png" width="48%" alt="i3 Status Bar" title="i3 Status Bar">
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120458.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120458.png" width="48%" alt="i3 Status Bar" title="Lxterminal, Starship, neofetch, ble.sh">
 </a>
 
 <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120458.png" target="_blank">
