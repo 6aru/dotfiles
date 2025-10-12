@@ -7,7 +7,7 @@ A clean, consistent, and dark configuration for my Linux environment, centered a
 <div align="center">
     
 <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T172149.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T172149.png" width="48%" alt="i3 Tiled Layout" title="i3 Tiled Layout">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T172149.png" width="48%" alt="i3 Tiled Layout" title="Lockscreen">
 </a>
 <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120305.png" target="_blank">
     <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120305.png" width="48%" alt="Vim Editor" title="i3wm & i3stastus bar">
@@ -15,8 +15,8 @@ A clean, consistent, and dark configuration for my Linux environment, centered a
 
 <br>
 
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120806.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120806.png" width="48%" alt="Terminal with Ranger" title="Terminal with Ranger">
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120331.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120331.png" width="48%" alt="Terminal with Ranger" title="dmenu">
 </a>
 <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115759.png" target="_blank">
     <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115759.png" width="48%" alt="i3 Status Bar" title="i3 Status Bar">
