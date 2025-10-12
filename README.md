@@ -4,6 +4,9 @@ A Clean, Minimal Dark Theme Configuration
 Inspired by and centered around the Ellen Joe aesthetic.
 
 ---
+## Screenshots
+
+All components—from the WM to the terminal—are integrated with the Catppuccin Frappe. 
 
 <div align="center">
     
