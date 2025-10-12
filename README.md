@@ -14,13 +14,12 @@ All components—from the WM to the terminal—are integrated with the Dracula t
   
   <br>
   
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111639.png" width="30%" alt="dmenu App Launcher">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111802.png" width="30%" alt="Terminal with Starship">
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T111959.png" width="30%" alt="i3 Status Bar">
+  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120458.png" width="30%" alt="dmenu App Launcher">
+  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120531.png" width="30%" alt="Terminal with Starship">
+  <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115759.png" width="30%" alt="i3 Status Bar">
   
   <br>
   
-  <img src="https://github.com/6aru/i3wm-Dracula/blob/main/assets/i3-Dracula%20Shots/Screenshot-20250930T112148.png" width="60%" alt="Clean Desktop">
 </p>
 
 <p align="center">
