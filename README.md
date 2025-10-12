@@ -50,8 +50,8 @@ A clean, consistent, and dark configuration for my Linux environment, centered a
 <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120806.png" target="_blank">
     <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120806.png" width="48%" alt="Another dmenu View" >
 </a>
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120105.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120105.png" width="48%" alt="lxterminal" title="lxterminal">
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120206.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120206.png" width="48%" alt="lxterminal" >
 </a>
 </div>
 
