@@ -1,6 +1,6 @@
 <div align="center">
     <img 
-        src="https://c.tenor.com/eH2gQWv208AAAAAC/ellen-joe-zenless-zone-zero-zzz-shark-girl-vibing.gif" 
+        src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Saves/ellen-joe-zenless-zone-zero.gif" 
         alt="Ellen Joe Vibing GIF" 
         width="150" 
         height="150"
