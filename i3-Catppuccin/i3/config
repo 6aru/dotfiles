@@ -51,6 +51,10 @@ floating_modifier $mod
 # or left-clicking anywhere into the window while holding the floating modifier.
 tiling_drag modifier titlebar
 
+# xtrlock
+bindsym $mod+q exec xtrlock
+exec --no-startup-id xtrlock
+
 # start a terminal
 bindsym $mod+Return exec lxterminal
 
@@ -204,9 +208,9 @@ bar {
 		i3bar_command i3bar --transparency
         tray_output none
         position top
-        padding 0 8px 0px 4px
         font pango:FiraCode Nerd Font 10
-		status_command i3status
+        padding 0 8px 0px 4px
+        status_command i3status | i3status-title-on-bar --fixed-width 170 --color '#df9bb8'
         
         colors {
 			background #303446
@@ -238,7 +242,7 @@ mode "$mode_system" {
 
 exec_always --no-startup-id ~/.local/bin/autotiling
 
-for_window [class="^.*"] border pixel 5
+for_window [class="^.*"] border pixel 3
 for_window [class="Synapse"] border pixel 0
 #hide_edge_borders smart
 gaps inner 5
