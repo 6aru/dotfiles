@@ -1,13 +1,3 @@
-<div align="center">
-    <img 
-        src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Saves/ellen-joe-zenless-zone-zero.gif" 
-        alt="Ellen Joe Vibing GIF" 
-        width="150" 
-        height="150"
-        style="border-radius: 50%; display: block; margin-left: auto; margin-right: auto;"
-    >
-</div>
-
 # My Portable i3 Dotfiles 
 
 A Clean, Minimal Dark Theme Configuration
