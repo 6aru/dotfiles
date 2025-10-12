@@ -51,6 +51,10 @@ floating_modifier $mod
 # or left-clicking anywhere into the window while holding the floating modifier.
 tiling_drag modifier titlebar
 
+# xtrlock
+bindsym $mod+q exec xtrlock
+exec --no-startup-id xtrlock
+
 # start a terminal
 bindsym $mod+Return exec lxterminal
 
@@ -58,7 +62,7 @@ bindsym $mod+Return exec lxterminal
 bindsym Ctrl+F4 kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec --no-startup-id "dmenu_run -b -i -nf '#F8F8F2' -nb '#282A36' -sb '#6272A4' -sf '#F8F8F2' -fn 'FiraCode Nerd Font Mono Regular 5' -p 'dmenu%'"
+bindsym $mod+d exec --no-startup-id "dmenu_run -b -i -nb '#303446' -nf '#c6d0f5' -sb '#df9bb8' -sf '#232634' -fn 'FiraCode Nerd Font Mono Regular 10' -p 'Search:'"
 
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
@@ -190,14 +194,13 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-# class                 border  bground text    indicator child_border
-client.focused          #6272A4 #6272A4 #F8F8F2 #6272A4   #6272A4
-client.focused_inactive #44475A #44475A #F8F8F2 #44475A   #44475A
-client.unfocused        #282A36 #282A36 #BFBFBF #282A36   #282A36
-client.urgent           #44475A #FF5555 #F8F8F2 #FF5555   #FF5555
-client.placeholder      #282A36 #282A36 #F8F8F2 #282A36   #282A36
-
-client.background       #F8F8F2
+# class                 border  backgr. text    indicator child_border
+client.focused          #df9bb8 #303446 #c6d0f5 #df9bb8   #df9bb8
+client.focused_inactive #737994 #303446 #c6d0f5 #737994   #737994
+client.unfocused        #737994 #303446 #c6d0f5 #737994   #737994
+client.urgent           #ef9f76 #303446 #ef9f76 #737994   #ef9f76
+client.placeholder      #737994 #303446 #c6d0f5 #737994   #737994
+client.background       #303446
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
@@ -205,20 +208,20 @@ bar {
 		i3bar_command i3bar --transparency
         tray_output none
         position top
-        padding 0 8px 0px 8px
-		font pango:FiraCode Nerd Font 10
-        status_command i3status
+        font pango:FiraCode Nerd Font 10
+        padding 0 8px 0px 4px
+        status_command i3status | i3status-title-on-bar --fixed-width 170 --color '#df9bb8'
         
         colors {
-			background #282A36
-            statusline #F8F8F2
-            separator  #44475A
-
-            focused_workspace  #44475A #44475A #F8F8F2
-            active_workspace   #282A36 #44475A #F8F8F2
-            inactive_workspace #282A36 #282A36 #BFBFBF
-            urgent_workspace   #FF5555 #FF5555 #F8F8F2
-            binding_mode       #FF5555 #FF5555 #F8F8F2
+			background #303446
+			statusline #c6d0f5
+			separator #303446
+            # target           border  bg      text
+			focused_workspace  #454b59 #df9bb8 #232634
+			active_workspace   #303446 #626880 #c6d0f5
+			inactive_workspace #303446 #303446 #c6d0f5
+			urgent_workspace   #303446 #e78284 #232634
+			binding_mode       #303446 #e78284 #232634
     }
 	
 }
@@ -239,9 +242,11 @@ mode "$mode_system" {
 
 exec_always --no-startup-id ~/.local/bin/autotiling
 
-for_window [class="^.*"] border pixel 5
+for_window [class="^.*"] border pixel 3
 for_window [class="Synapse"] border pixel 0
 #hide_edge_borders smart
-gaps inner 7
-gaps outer 7
+gaps inner 5
+gaps outer 5
+workspace 3 gaps inner 0
+workspace 3 gaps outer 0
 smart_gaps inverse_outer
