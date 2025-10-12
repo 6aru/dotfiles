@@ -65,12 +65,12 @@ All components—from the WM to the terminal—are integrated with the Catppucci
 
 | Component | Software/Configuration | Links |
 | :--- | :--- | :--- |
-| **Window Manager (WM)** | **i3** | [Repository](https://github.com/i3/i3), [Dracula Colorscheme](https://github.com/dracula/i3) |
-| **Status Bar** | **i3Status** | [Repository](https://github.com/i3/i3status), [Dracula Config](https://github.com/dracula/i3/tree/master/.config/i3status) |
+| **Window Manager (WM)** | **i3** | [Repository](https://github.com/i3/i3), [Catppuccin Colorscheme](https://github.com/catppuccin/i3) |
+| **Status Bar** | **i3Status** | [Repository](https://github.com/i3/i3status), [Config](https://github.com/6aru/i3-EllenJoe/blob/main/i3/i3status.conf) |
 | **Compositor** | **picom** | [Repository](https://github.com/yshui/picom) |
-| **Terminal Emulator** | **Lxterminal** | [Repository](https://github.com/lxde/lxterminal), [Dracula Colorscheme](https://github.com/dracula/lxterminal) |
+| **Terminal Emulator** | **Lxterminal** | [Repository](https://github.com/lxde/lxterminal), [ CatppuccinColorscheme](https://github.com/catppuccin/lxterminal) |
 | **Shell Prompt** | **Starship** | [Homepage](https://starship.rs/), [Jetpack Theme](https://starship.rs/presets/jetpack) |
-| **File Manager** | **Ranger** | [Repository](https://github.com/ranger/ranger), [Dracula Colorscheme](https://draculatheme.com/ranger) |
+| **File Manager** | **Superfile** | [Repository](https://github.com/yorukot/superfile) |
 | **Application Launcher** | **dmenu** | [Repository](https://github.com/stilvoid/dmenu), [Dracula Colorscheme](https://github.com/dracula/dmenu) |
 | **Text Editor** | **Vim** | [Repository](https://github.com/vim/vim), [Dracula Colorscheme](https://draculatheme.com/vim) |
 | **GTK Theme** | **Dracula** | [Theme Page](https://draculatheme.com/gtk) |
