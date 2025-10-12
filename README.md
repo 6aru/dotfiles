@@ -81,7 +81,7 @@ All components—from the WM to the terminal—are integrated with the Catppucci
 
 | Asset | Details | Link |
 | :--- | :--- | :--- |
-| **Wallpaper** | Dracula Debian | [Image Link](https://github.com/dracula/wallpaper/blob/master/first-collection/debian.png) |
+| **Wallpaper** | Ellen Joe | [Source](https://www.pixiv.net/artworks/127841810) |
 | **Font & Icons** | **FiraCode Nerd Font** | [Download Link](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraCode.zip) |
 | **Neofetch** | **BMOfetch** | [Theme](https://github.com/Chick2D/neofetch-themes?tab=readme-ov-file) |
 
