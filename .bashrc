@@ -18,6 +18,12 @@ eval "$(zoxide init bash)"
 export PATH="$HOME/.fzf/bin:$PATH"
 eval "$(fzf --bash)"
 
+# Source ble.sh first for line editing features
+source ~/.local/share/blesh/ble.sh
+
+# StarShip 
+eval "$(starship init bash)"
+
 # Consolidated FZF options to fix the 'bat' error. This single line
 # correctly sets the preview window and command.
 export FZF_DEFAULT_OPTS="--ansi --layout=reverse --height=50% --preview-window='right:60%' --preview='bat --color=always --style=header,grid,numbers --line-range :500 {}'"
@@ -127,3 +133,8 @@ then
   return 127
  }
 fi
+
+. "$HOME/.atuin/bin/env"
+
+[[ -f ~/.bash-preexec.sh ]] && source ~/.bash-preexec.sh
+eval "$(atuin init bash)"
