@@ -3,52 +3,64 @@
 A clean, consistent, and dark configuration for my Linux environment, centered around the [Dracula Theme](https://draculatheme.com/).
 
 ---
+
 <div align="center">
-    <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T172149.png" target="_blank">
-        <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T172149.png" width="32%" alt="i3 Tiled Layout" title="i3 Tiled Layout">
-    </a>
-    <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120305.png" target="_blank">
-        <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120305.png" width="32%" alt="Ranger File Manager" title="Ranger File Manager">
-    </a>
-    <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120331.png" target="_blank">
-        <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120331.png" width="32%" alt="Vim Editor" title="Vim Editor">
-    </a>
     
-    <br><br>
-    
-    <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120458.png" target="_blank">
-        <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120458.png" width="32%" alt="dmenu App Launcher" title="dmenu App Launcher">
-    </a>
-    <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120531.png" target="_blank">
-        <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120531.png" width="32%" alt="Terminal with Starship" title="Terminal with Starship">
-    </a>
-    <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115759.png" target="_blank">
-        <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115759.png" width="32%" alt="i3 Status Bar" title="i3 Status Bar">
-    </a>
-    
-    <br><br>
-    
-    <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115834.png" target="_blank">
-        <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115834.png" width="32%" alt="Another Tiled Layout" title="Another Tiled Layout">
-    </a>
-    <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115955.png" target="_blank">
-        <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115955.png" width="32%" alt="Another dmenu View" title="Another dmenu View">
-    </a>
-    <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120105.png" target="_blank">
-        <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120105.png" width="32%" alt="lxterminal" title="lxterminal">
-    </a>
-    
-    <br><br>
-    
-    <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120710.png" target="_blank">
-        <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120710.png" width="32%" alt="Vim Editor (Code)" title="Vim Editor (Code)">
-    </a>
-    <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120806.png" target="_blank">
-        <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120806.png" width="32%" alt="Terminal with Ranger" title="Terminal with Ranger">
-    </a>
-    <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120206.png" target="_blank">
-        <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120206.png" width="32%" alt="Firefox Browser" title="Firefox Browser">
-    </a>
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T172149.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T172149.png" width="48%" alt="i3 Tiled Layout" title="i3 Tiled Layout">
+</a>
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120331.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120331.png" width="48%" alt="Vim Editor" title="Vim Editor">
+</a>
+
+<br>
+
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120806.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120806.png" width="48%" alt="Terminal with Ranger" title="Terminal with Ranger">
+</a>
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115759.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115759.png" width="48%" alt="i3 Status Bar" title="i3 Status Bar">
+</a>
+
+<br><br>
+<hr style="width: 50%;">
+<br><br>
+
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120458.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120458.png" width="48%" alt="dmenu App Launcher" title="dmenu App Launcher">
+</a>
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120531.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120531.png" width="48%" alt="Terminal with Starship" title="Terminal with Starship">
+</a>
+
+<br>
+
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120305.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120305.png" width="48%" alt="Ranger File Manager" title="Ranger File Manager">
+</a>
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120206.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120206.png" width="48%" alt="Firefox Browser" title="Firefox Browser">
+</a>
+
+<br><br>
+<hr style="width: 50%;">
+<br><br>
+
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115834.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115834.png" width="48%" alt="Another Tiled Layout" title="Another Tiled Layout">
+</a>
+<a href="https://github.com="6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120710.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120710.png" width="48%" alt="Vim Editor (Code)" title="Vim Editor (Code)">
+</a>
+
+<br>
+
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115955.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T115955.png" width="48%" alt="Another dmenu View" title="Another dmenu View">
+</a>
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120105.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120105.png" width="48%" alt="lxterminal" title="lxterminal">
+</a>
 </div>
 
 ## Configuration Details
