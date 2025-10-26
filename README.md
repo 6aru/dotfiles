@@ -11,10 +11,10 @@ All components—from the WM to the terminal—are integrated with the Catppucci
 <div align="center">
     
 <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180230.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180230.png" width="48%" alt="i3 Tiled Layout" title="Lockscreen">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180230.png" width="50%" alt="i3 Tiled Layout" title="Lockscreen">
 </a>
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120305.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120305.png" width="48%" alt="Vim Editor" title="i3wm & i3stastus bar">
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180211.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180211.png" width="50%" alt="Polybar" title="i3wm & i3stastus bar">
 </a>
 
 <br>
