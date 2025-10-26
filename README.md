@@ -51,7 +51,7 @@ All components—from the WM to the terminal—are integrated with the Catppucci
 | Component | Software/Configuration | Links |
 | :--- | :--- | :--- |
 | **Window Manager (WM)** | **i3** | [Repository](https://github.com/i3/i3), [Catppuccin Colorscheme](https://github.com/catppuccin/i3) |
-| **Status Bar** | **i3Status** | [Repository](https://github.com/i3/i3status), [Config](https://github.com/6aru/i3-EllenJoe/blob/main/i3/i3status.conf) |
+| **Status Bar** | **Polybar** | [Repository](https://github.com/polybar/polybar), [Config](https://github.com/6aru/i3-EllenJoe/blob/main/polybar/config.ini) |
 | **Compositor** | **picom** | [Repository](https://github.com/yshui/picom) |
 | **Terminal Emulator** | **Lxterminal** | [Repository](https://github.com/lxde/lxterminal), [ CatppuccinColorscheme](https://github.com/catppuccin/lxterminal) |
 | **Shell Prompt** | **Starship** | [Homepage](https://starship.rs/), [Jetpack Theme](https://starship.rs/presets/jetpack) |
