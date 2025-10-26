@@ -42,21 +42,6 @@ All components—from the WM to the terminal—are integrated with the Catppucci
     <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T182207.png" width="48%" alt="Power Menu" title="Reboot or Poweroff">
 </a>
 
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120105.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120105.png" width="48%" alt="Another Tiled Layout" title="FireFox">
-</a>
-<a href="https://github.com="6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120710.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120710.png" width="48%" alt="Vim Editor (Code)" title="Lxterminal & firefox">
-</a>
-
-<br>
-
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120806.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120806.png" width="48%" alt="Another dmenu View" >
-</a>
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120206.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120206.png" width="48%" alt="lxterminal" >
-</a>
 </div>
 
 ---
