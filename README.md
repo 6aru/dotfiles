@@ -22,8 +22,8 @@ All components—from the WM to the terminal—are integrated with the Catppucci
 <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180316.png" target="_blank">
     <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180316.png" width="48%" alt="Dmenu" title="dmenu">
 </a>
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120458.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120458.png" width="48%" alt="i3 Status Bar" title="Lxterminal, Starship, neofetch, ble.sh">
+<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180410.png" target="_blank">
+    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180410.png" width="48%" alt="Terminal" title="Lxterminal, atuin & neofetch">
 </a>
 
 <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Screenshots/Screenshot-20251012T120531.png" target="_blank">
