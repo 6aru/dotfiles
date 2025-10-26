@@ -204,27 +204,30 @@ client.background       #303446
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
-		i3bar_command i3bar --transparency
-        tray_output none
-        position top
-        font pango:FiraCode Nerd Font 10
-        padding 0 8px 0px 4px
-        status_command i3status | i3status-title-on-bar --fixed-width 170 --color '#df9bb8'
-        
-        colors {
-			background #303446
-			statusline #c6d0f5
-			separator #303446
-            # target           border  bg      text
-			focused_workspace  #454b59 #df9bb8 #232634
-			active_workspace   #303446 #626880 #c6d0f5
-			inactive_workspace #303446 #303446 #c6d0f5
-			urgent_workspace   #303446 #e78284 #232634
-			binding_mode       #303446 #e78284 #232634
-    }
-	
-}
+#bar {
+#		i3bar_command i3bar --transparency
+#        tray_output none
+#        position top
+#        font pango:FiraCode Nerd Font 10
+#        padding 0 8px 0px 4px
+#        status_command i3status | i3status-title-on-bar --fixed-width 170 --color '#df9bb8'
+#        
+#        colors {
+#			background #303446
+#			statusline #c6d0f5
+#			separator #303446
+#            # target           border  bg      text
+#			focused_workspace  #454b59 #df9bb8 #232634
+#			active_workspace   #303446 #626880 #c6d0f5
+#			inactive_workspace #303446 #303446 #c6d0f5
+#			urgent_workspace   #303446 #e78284 #232634
+#			binding_mode       #303446 #e78284 #232634
+#    }
+#	
+#}
+
+# Polybar
+exec_always --no-startup-id ~/.config/polybar/launch.sh
 
 # Set up a keybinding to enter a "system" mode
 set $mode_system System (r)eboot, (p)oweroff
